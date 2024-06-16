@@ -1,7 +1,7 @@
-# User Management System
+# Admin Dashboard
 
 ## Project Overview
-This project is a simple user management system implemented in Python. It allows an admin to manage a list of users, including adding, updating, deleting, and searching for users. This project demonstrates basic Python skills, including handling user input, string matching with regular expressions, and date-time formatting.
+This project is a simple admin dashboard implemented in Python. It allows an admin to manage a list of users, including adding, updating, deleting, and searching for users. This project demonstrates basic Python skills, including handling user input, string matching with regular expressions, and date-time formatting.
 
 ## Features
 - **Login System**: Secure login for admin.
@@ -14,4 +14,4 @@ This project is a simple user management system implemented in Python. It allows
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/usermanagement.git
+   git clone https://github.com/yourusername/admin-dashboard.git
